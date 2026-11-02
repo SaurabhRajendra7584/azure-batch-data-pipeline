@@ -1,0 +1,6 @@
+trip_id,service_date,route_id,scheduled_departure,actual_departure,scheduled_arrival,actual_arrival,passenger_count
+T001,2025-01-15,R1,08:00,08:02,08:30,08:34,12
+T002,2025-01-15,R1,08:30,08:29,09:00,09:03,18
+T003,2025-01-15,R1,09:00,09:04,09:30,09:42,20
+T004,2025-01-15,R2,10:00,10:00,10:45,10:44,8
+T005,2025-01-15,R2,11:00,11:00,11:45,11:47,-1
